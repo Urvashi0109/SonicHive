@@ -1,0 +1,6 @@
+<browserRouter> allow us to route
+
+import { OrbitControls,Preload,useGLTF } from '@react-three/drei';
+useGLTF allow us to use 3D models
+
+https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
